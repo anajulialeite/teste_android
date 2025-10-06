@@ -11,4 +11,5 @@ Precisei fazer um teste pra ver se todas as funções do react e do android stud
 
 ## License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
+ 
